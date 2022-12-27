@@ -348,7 +348,15 @@ button {
     font-size: 15px;
     margin-left: 5px;
   }
-
+  .orb-canvas {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+  }
+  .about {
+    position: relative;
+  }
 
 
   @media (max-width: 1024px) {
